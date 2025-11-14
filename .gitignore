@@ -1,0 +1,9 @@
+.terraform
+terraform.tfstate 
+terraform.tfstate.backup 
+.terraform.lock.hcl
+
+google-credentials.json
+**/clean_out.json
+**/terraform_show_out.json
+**/terraform_show_output.json
